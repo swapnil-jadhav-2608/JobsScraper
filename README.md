@@ -1,5 +1,7 @@
 # LinkedIn Job Scraper
 
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js&logoColor=white)
+
 This Node.js script automates the process of logging into LinkedIn, searching for jobs based on your provided **keywords** and **location**, and exporting all job details into a CSV file.  
 
 ---
@@ -23,7 +25,7 @@ This Node.js script automates the process of logging into LinkedIn, searching fo
 
 ## Installation
 
-Make sure you have **Node.js (>=16)** installed.
+Make sure you have **Node.js (>=20)** installed.
 
 ```bash
 # Clone this repository
@@ -35,5 +37,5 @@ cd JobsScraper
 # Install required packages
 npm install playwright csv-writer dotenv
 
-# Run
+# Run the script
 node jobs_scraper.js
