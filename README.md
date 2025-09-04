@@ -20,6 +20,10 @@ This Node.js script automates the process of logging into LinkedIn, searching fo
 - Exports results to a **CSV file**
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
+</p>
 
 ## Installation
 
