@@ -23,6 +23,7 @@ This Node.js script automates the process of logging into LinkedIn, searching fo
 
 ---
 
+
 ## Installation
 
 Make sure you have **Node.js (>=20)** installed.
