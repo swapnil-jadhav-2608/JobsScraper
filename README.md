@@ -22,7 +22,11 @@ This Node.js script automates the process of logging into LinkedIn, searching fo
 - Exports results to a **CSV file**
 
 ---
-
+<p align="center">
+  <a href="/abc.gif">
+    <img src="/abc.gif" alt="Hi" width="90%" />
+  </a>
+</p>
 
 ## Installation
 
